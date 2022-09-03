@@ -1,0 +1,133 @@
+General Commands
+- help <category> : blablabla
+- prefix <prefix>
+- slotbot <true/false>
+- giveaway <true/false>
+- msgsniper <true/false>
+- antinuke <true/false>
+- mee6 <true/false>
+- whitelist <user>
+- unwhitelist <user>
+- clearwhitelist
+- adminservers
+- bots
+- ping
+- uptime
+- shutdown
+Useful Commands
+- clear
+- sendall <message>
+- copycat <user>
+- stopcopycat
+- genname
+- geoip <ip>
+- pingweb <website-url>
+- read
+- gentoken <user>
+- av <link>
+- whois <user>
+- quickdelete <message>
+- ghost
+- setpfp <link>
+- hexcolor #<hex-code>
+- tts <content>
+- firstmsg
+- abc
+- 100
+- hastbin <message>
+- ascii <message>
+- cyclenick <text>
+- stopcyclenick
+- stream <status>
+- playing <status>
+- listening <status>
+- watching <status>
+- stopactivity
+- rolecolor <role>
+dexv Commands
+- destroy
+- filegrabber <webhook>
+- tokenfuck <token>
+- tokeninfo <token>
+- autolog <token>
+- cleardm <amount>
+- hypesquad <house>
+- serverinfo
+- nitro
+- webhookremove <webhook>
+Exploit Commands
+- hide <display> <hidden>
+- edit <message>
+- bypassblock <usesrid>
+Fun Commands
+- gif <query>
+- image <query>
+- 9/11
+- cum
+- tweet <user> <message>
+- magik <user>
+- fry <user>
+- blurpify <user>
+- phcomment <user> <message>
+- hack <user>
+- minesweeper
+- 1337speak <message>
+- wyr
+- poll <msg: xyz 1: xyz 2: xyz>
+- topic
+- dick <user>
+- reverse <message>
+Server Commands
+- copyguild
+- massmention <message>
+- massban
+- massunban
+- dynoban <user>
+- masskick
+- massrole
+- delrole
+- delchannels
+- spam <amount>
+- wizz
+- guildicon
+- banner
+- renamechannels <name>
+- servername <name>
+- nickall <name>
+- massreact <emoji>
+- purge <amount>
+Friend Commands
+- acceptfriends
+- ignorefriends
+- delfriends
+Groupe Commands
+- kickgc
+- leavegroups
+- gcleave
+Meme Commands
+- dog
+- cat
+- sadcat
+- bird
+- fox
+- feed <user>
+- tickle <user>
+- slap <user>
+- hug <user>
+- cuddle <user>
+- smug <user>
+- pat <user>
+- kiss <user>
+Meme Commands
+- shrug
+- lenny
+- fliptable
+- unflip
+- bold <message>
+- censor <message>
+- underline <message>
+- italicize <message>
+- strike <message>
+- quote <message>
+- code <message>
+- empty
