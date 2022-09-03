@@ -1,6 +1,6 @@
 {
-    "token": "NjQwOTA5NTY5OTgzMjUwNDMz.G5eCSe.7moTsj5wncEw9wRz7ECVOGz7Mwetyuc1zEii0c",
-    "password": "13552251Uu",
+    "token": "TOKEN HERE",
+    "password": "PASSWORD HERE",
     "prefix": "*",
     
     "nitro_sniper": false, 
@@ -9,3 +9,4 @@
     "stream_url": "https://www.youtube.com/watch?v=kT2kFcxD8Gc",
     "tts_language": "en"
 }
+#this is for self bot
