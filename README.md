@@ -2,7 +2,7 @@
   <img src="https://i.discord.fr/PSS.png">
 </p>
 
-<h1 align="center">[Discord] - DEXV-NUKER (V.2)</h1>
+<h1 align="center">[Discord] - DEXV-NUKER (V.2)(BROKEN NEW VERSION IN DEVELOPMENT)</h1>
 
 
 <p align="center">
